@@ -10,7 +10,7 @@
 
 ## 📝 O Que Você Precisa Saber
 
-- Leia o [SRS](docs/SRS.md) para entender tudo sobre o projeto
+- Leia o [SRS](Docs/SRS.md) para entender tudo sobre o projeto
 
 ## ✅ Checklist Rápido
 

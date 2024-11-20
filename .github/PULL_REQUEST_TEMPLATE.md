@@ -7,23 +7,18 @@
 - [ ] 🚀 Nova feature
 - [ ] 🐛 Correção de bug
 - [ ] 📝 Documentação
-- [ ] ♻️ Refatoração
-- [ ] 🧪 Testes
+- [ ] Outro
 
 ## Checklist
 
-- [ ] Testei as alterações localmente
-- [ ] Descrevi tudo na documentação
+- [ ] Testei tudo
+- [ ] Documentei
 - [ ] Segui os padrões de código do projeto
 
 ## Screenshots (se aplicável)
 
 <!-- Adicione screenshots das alterações visuais -->
 
-## Issues Relacionadas
+## Issues Relacionadas (se aplicável)
 
 <!-- Liste as issues relacionadas -->
-
-## Notas Adicionais
-
-<!-- Informações extras sobre a PR -->

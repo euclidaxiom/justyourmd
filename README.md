@@ -9,7 +9,7 @@ Editor WYSIWYG (Notion like) de Markdown para projetos web, com gerenciamento Gi
 
 JustYourMD é um editor focado em simplificar e melhorar a experiência de edição de conteúdo em projetos web baseados em markdown - Não quero mais abrir um IDE só para editar um markdown, nem editar um markdown digitando `##` invés de `/h2`.
 
-Se quiser saber tudo em detalhes, leia o [SRS](docs/SRS.md).
+Se quiser saber tudo em detalhes, leia o [SRS](Docs/SRS.md).
 
 ### Features Planejadas
 
@@ -18,24 +18,11 @@ Se quiser saber tudo em detalhes, leia o [SRS](docs/SRS.md).
 - 🔄 Integração Git/GitHub
 - 👀 Preview em tempo real
 
-## 🛠 Requisitos
-
-- macOS 13.0+
-- Xcode 15.0+
-
-## 📦 Instalação
-
-```bash
-git clone https://github.com/seu-usuario/JustYourMD.git
-cd JustYourMD
-open JustYourMD.xcodeproj
-```
-
 ## 🤝 Contribuindo
 
-**Atenção desenvolvedores backend**: Sou desenvolvedor frontend e toda ajuda com a parte backend será muito bem-vinda.
+**Atenção desenvolvedores backend**: Sou desenvolvedor frontend então toda ajuda será bem-vinda.
 
-[Veja o guia de contribuição](CONTRIBUTING.md)
+[Veja o guia de contribuição](.github/CONTRIBUTING.md)
 
 ## 📋 Roadmap
 
@@ -66,14 +53,10 @@ open JustYourMD.xcodeproj
 
 ### Fase 5 - Polimento
 
-- [ ] Adicionar suporte para markdown com componentes, como `.mdx` e `.mdsvex`.
-- [ ] Completar os requisitos para subir na App Store.
+- [ ] Adicionar suporte para markdown com componentes, como `.mdx` e `.mdsvex`
 
 ### Possíveis próximas fases
 
+- [ ] Completar os requisitos e subir na App Store
 - [ ] Versão para Windows
 - [ ] Estudar a possibilidade de criar uma versão mobile
-
-## 📄 Licença
-
-Este projeto está licenciado sob a MIT License.
