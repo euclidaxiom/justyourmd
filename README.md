@@ -1,34 +1,42 @@
-# JustYourMD
+![Justyourmd App Icon](.github/Justyourmd.png)
 
-Editor WYSIWYG (Notion like) de Markdown para projetos web, com gerenciamento Git integrado e preview em tempo real.
+# Justyourmd
+
+Um editor WYSIWYG nativo de Markdown para projetos web, com gerenciamento Git e preview em tempo real integrados. 🚀
 
 ![Status: Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Plataforma: macOS](https://img.shields.io/badge/Plataforma-macOS%2013%2B-blue)
 
-## 💡 Visão Geral
+## O Projeto
 
-JustYourMD é um editor focado em simplificar e melhorar a experiência de edição de conteúdo em projetos web baseados em markdown - Não quero mais abrir um IDE só para editar um markdown, nem editar um markdown digitando `##` invés de `/h2`.
+Cansei de abrir um IDE só para editar markdown. Tenho um "blog" baseado em markdown e estou desenvolvendo um design system com muita documentação. E mesmo com extensões, o VSCode não oferece uma experiência agradável para escrita de texto.
 
-Se quiser saber tudo em detalhes, leia o [SRS](Docs/SRS.md).
+Então, decidi criar o Justyourmd.
+
+Minha visão? Uma experiência de escrita gostosa que não me faça abandonar o Git ou o dev server. Código? Editor de código. Conteúdo? Justyourmd.
 
 ### Features Planejadas
 
-- 📝 Editor WYSIWYG nativo em SwiftUI
-- 📁 Gerenciamento de arquivos markdown
-- 🔄 Integração Git/GitHub
-- 👀 Preview em tempo real
+- Editor WYSIWYG nativo em SwiftUI
+- Gerenciamento de arquivos markdown
+- Integração Git/GitHub
+- Preview em tempo real
 
-## 🤝 Contribuindo
+Quer conhecer todos os detalhes? Tem tudo na Wiki do repositório. 📋
 
-**Atenção desenvolvedores backend**: Sou desenvolvedor frontend então toda ajuda será bem-vinda.
+---
+
+## Contribua
+
+**Desenvolvedores backend**: Meu foco é frontend, então toda ajuda será super bem-vinda! 🤝
 
 [Veja o guia de contribuição](.github/CONTRIBUTING.md)
 
-## 📋 Roadmap
+## Roadmap 🗺️
 
 ### Fase 1 - Gerenciador de Arquivos (Atual)
 
-- [ ] Interface do gerenciador (Em desenvolvimento)
+- [ ] Interface do gerenciador (Estou aqui)
 - [ ] Implementação do FileService
 - [ ] Testes do módulo
 
@@ -53,10 +61,18 @@ Se quiser saber tudo em detalhes, leia o [SRS](Docs/SRS.md).
 
 ### Fase 5 - Polimento
 
-- [ ] Adicionar suporte para markdown com componentes, como `.mdx` e `.mdsvex`
+- [ ] Adicionar suporte para markdown com componentes (`.mdx`, `.mdsvex`)
 
-### Possíveis próximas fases
+### Próximas Possibilidades
 
-- [ ] Completar os requisitos e subir na App Store
+- [ ] Completar requisitos e publicar na App Store
 - [ ] Versão para Windows
-- [ ] Estudar a possibilidade de criar uma versão mobile
+- [ ] Explorar possibilidade de versão mobile
+
+---
+
+## Licença
+
+Licenciado sob a Licença MIT, Copyright © 2024-presente Justyourmd.
+
+Consulte [LICENSE](./LICENSE) para mais informações. 📄

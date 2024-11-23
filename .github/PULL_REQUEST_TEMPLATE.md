@@ -1,24 +1,19 @@
+```markdown
 ## Descrição
 
-<!-- Descreva suas alterações em detalhes -->
+[Descrição das alterações em detalhes]
 
 ## Tipo de Mudança
 
-- [ ] 🚀 Nova feature
-- [ ] 🐛 Correção de bug
-- [ ] 📝 Documentação
-- [ ] Outro
+- [ ] Nova feature
+- [ ] Correção de bug
+- [ ] ...
 
-## Checklist
+## Checklist de Validação
 
-- [ ] Testei tudo
-- [ ] Documentei
-- [ ] Segui os padrões de código do projeto
+Antes de submeter, confirme que:
 
-## Screenshots (se aplicável)
-
-<!-- Adicione screenshots das alterações visuais -->
-
-## Issues Relacionadas (se aplicável)
-
-<!-- Liste as issues relacionadas -->
+- [ ] Código segue os padrões do projeto
+- [ ] Todos os testes passaram
+- [ ] Não introduziu warnings ou erros em outras partes do projeto
+```

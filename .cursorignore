@@ -2,3 +2,9 @@
 *.xcworkspace
 *.xcassets
 .cursorignore
+.gitignore
+LICENSE
+CONTRIBUTING.md
+PULL_REQUEST_TEMPLATE.md
+README.md
+_Wiki
