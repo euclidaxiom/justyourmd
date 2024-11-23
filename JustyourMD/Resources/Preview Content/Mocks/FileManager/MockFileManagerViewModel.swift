@@ -24,7 +24,7 @@ class MockFileManagerViewModel: FileManagerViewModel {
         name: name,
         path: "\(path)/\(name)",
         type: .folder,
-        gitStatus: .untracked,
+        fileStatus: .local,
         children: []
       )
 
@@ -38,7 +38,7 @@ class MockFileManagerViewModel: FileManagerViewModel {
         name: name.hasSuffix(".md") ? name : "\(name).md",
         path: "\(path)/\(name)",
         type: .page,
-        gitStatus: .untracked,
+        fileStatus: .local,
         content: "# Novo Arquivo\n\n",
         children: nil
       )

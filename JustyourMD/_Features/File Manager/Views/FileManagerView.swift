@@ -7,16 +7,8 @@ struct FileManagerView: View {
         if viewModel.projects.isEmpty {
             NoProjects()
         } else {
-            List {
-                ForEach(viewModel.projects) { project in
-                    DisclosureGroup {
-                        if !project.childrens.isEmpty {
-                            FilesList(files: project.childrens)
-                        }
-                    } label: {
-                        ProjectRow(project: project)
-                    }
-                }
+            Group {
+                FilesList(projects: viewModel.projects)
             }
             .task {
                 await viewModel.loadProjects()

@@ -5,5 +5,6 @@ struct FolderRow: View {
 
     var body: some View {
         Label(folder.name, systemImage: "folder.fill")
+            .tint(.accentColor)
     }
 }

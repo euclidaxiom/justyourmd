@@ -7,17 +7,13 @@ struct ProjectLabelStyle: LabelStyle {
             configuration.title
                 .padding(.leading, 1)
         } icon: {
-            RoundedRectangle(cornerRadius: 5)
-                .fill(Color.accentColor.gradient)
+            RoundedRectangle(cornerRadius: 6)
+                .fill(Color.clear)
                 .aspectRatio(1, contentMode: .fill)
                 .overlay(alignment: .center) {
                     configuration.icon
-                        .foregroundColor(.white)
-                        .imageScale(.small)
-                        .shadow(
-                            color: .black.opacity(0.06), radius: 0.5, y: 0.3)
+                        .foregroundColor(.accentColor)
                 }
-                .shadow(color: .black.opacity(0.1), radius: 0.5, y: 0.3)
         }
     }
 }
