@@ -22,15 +22,14 @@ Minha visão? Uma experiência de escrita gostosa que não me faça abandonar o 
 - Integração Git/GitHub
 - Preview em tempo real
 
-Quer conhecer todos os detalhes? Tem tudo na Wiki do repositório. 📋
-
 ---
 
 ## Contribua
 
-**Desenvolvedores backend**: Meu foco é frontend, então toda ajuda será super bem-vinda! 🤝
+Meu foco é só frontend, então a ajuda será super bem-vinda! 🤝
 
-[Veja o guia de contribuição](.github/CONTRIBUTING.md)
+1. Entre no [servidor do Discord](https://discord.gg/hNTMRb5KCz)
+2. Me envie uma mensagem direta
 
 ## Roadmap 🗺️
 
@@ -59,12 +58,9 @@ Quer conhecer todos os detalhes? Tem tudo na Wiki do repositório. 📋
 - [ ] Servidor de desenvolvimento
 - [ ] Testes do módulo
 
-### Fase 5 - Polimento
-
-- [ ] Adicionar suporte para markdown com componentes (`.mdx`, `.mdsvex`)
-
 ### Próximas Possibilidades
 
+- [ ] Adicionar suporte para markdown com componentes (`.mdx`, `.mdsvex`)
 - [ ] Completar requisitos e publicar na App Store
 - [ ] Versão para Windows
 - [ ] Explorar possibilidade de versão mobile
